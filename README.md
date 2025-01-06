@@ -1,7 +1,7 @@
 # IotchulindraRai-Heart-disease-prediction-using-Ml-project
 
 IotchulindraRai/Heart-disease-prediction-using-Ml-project with GUI 
-training models and make prediction based on model of dataset
+training models and make prediction based on model of dataset it was done for learning 
 linked in : https://np.linkedin.com/in/chulindra-rai-a51308206
 
 github : https://github.com/IotchulindraRai
